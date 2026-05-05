@@ -70,19 +70,19 @@ This repository contains all practical assignments, lab work, and self-study tas
 
 ## 🔢 Practical 03 — NumPy
 
-📓 [Open Notebook](./Essentials-of-Data-Science-main/Essentials-of-Data-Science/numpy_operations.ipynb)
+📓 [Open Code](numpy_operations.ipynb)
 
 ---
 
 ## 🐼 Practical 04 — Pandas
 
-📓 [Open Notebook](./Essentials-of-Data-Science-main/Essentials-of-Data-Science/pandas_operations.ipynb)
+📓 [Open Code](pandas_operations.ipynb)
 
 ---
 
 ## 📈 Practical 05 — Matplotlib
 
-📓 [Open Notebook](./Essentials-of-Data-Science-main/Essentials-of-Data-Science/mathplotlib_operations.ipynb)
+📓 [Open Code](mathplotlib_operations.ipynb)
 
 ---
 
@@ -114,5 +114,5 @@ cd Essentials-of-Data-Science
 ---
 
 <div align="center">
-⭐ If you found this useful, consider giving a star!
+I am the GOD
 </div>
