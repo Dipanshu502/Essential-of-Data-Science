@@ -63,8 +63,8 @@ This repository contains all practical assignments, lab work, and self-study tas
 
 | # | Problem                          | File                                                                                                                             |
 | - | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | Linear search implementation     | [lab_01_linear_search.py](./Essentials-of-Data-Science-main/Essentials-of-Data-Science/Practical_02/lab_01_linear_search.py)     |
-| 2 | Cricket captain using dictionary | [lab_02_cricket_captain.py](./Essentials-of-Data-Science-main/Essentials-of-Data-Science/Practical_02/lab_02_cricket_captain.py) |
+| 1 | Linear search implementation     | [lab_01_linear_search.py](lab_01_linear_search.py)     |
+| 2 | Cricket captain using dictionary | [lab_02_cricket_captain.py](lab_02_cricket_captain.py) |
 
 ---
 
