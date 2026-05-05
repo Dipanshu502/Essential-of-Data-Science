@@ -26,10 +26,11 @@ This repository contains all practical assignments, lab work, and self-study tas
 
 ---
 
-## 🎥 Video Explanations
+## 🎥 Assignment Video Explanations
 
-📂 **All lab explanation videos are available here:**
-👉 [Open Video Folder](https://drive.google.com/drive/folders/1a_qGipCBDu167ZcOGirX-d45WM6Esrfo?usp=drive_link)
+👉 [Open Video Folder](https://youtu.be/Q1i0Rb403xQ)
+
+##Video Assignment PDF
 
 ---
 
