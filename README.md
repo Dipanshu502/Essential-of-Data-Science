@@ -30,8 +30,9 @@ This repository contains all practical assignments, lab work, and self-study tas
 
 👉 [Open Video Folder](https://youtu.be/Q1i0Rb403xQ)
 
-##Video Assignment PDF
+## Video Assignment PDF
 
+[View PDF](EDS_2dc18487ce609f9bb7d480e6b5d3e4d1.pdf)
 ---
 
 ### 📌 Included Topics
