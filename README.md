@@ -53,9 +53,9 @@ This repository contains all practical assignments, lab work, and self-study tas
 
 | # | Problem                                  | File                                                                                                                 |
 | - | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 1 | Calculate result & grade from 5 subjects | [lab_01_grades.py](./Essentials-of-Data-Science-main/Essentials-of-Data-Science/Practical_01/lab_01_grades.py)       |
-| 2 | Fibonacci using recursion                | [lab_02_fibonacci.py](./Essentials-of-Data-Science-main/Essentials-of-Data-Science/Practical_01/lab_02_fibonacci.py) |
-| 3 | Pattern printing programs                | [lab_03_patterns.py](./Essentials-of-Data-Science-main/Essentials-of-Data-Science/Practical_01/lab_03_patterns.py)   |
+| 1 | Calculate result & grade from 5 subjects | [lab_01_grades.py](lab_01_grades.py)       |
+| 2 | Fibonacci using recursion                | [lab_02_fibonacci.py](lab_02_fibonacci.py) |
+| 3 | Pattern printing programs                | [lab_03_patterns.py](lab_03_patterns.py)   |
 
 ---
 
