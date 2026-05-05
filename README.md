@@ -57,14 +57,34 @@ This repository contains all practical assignments, lab work, and self-study tas
 | 2 | Fibonacci using recursion                | [lab_02_fibonacci.py](lab_02_fibonacci.py) |
 | 3 | Pattern printing programs                | [lab_03_patterns.py](lab_03_patterns.py)   |
 
----
+### Practice Assignments and Self Study
+
+| # | Problem                                  | File                                                                                                                 |
+| - | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 1 | Momentum                                 | [practice_01_momentum.py](practice_01_momentum.py)       |
+| 2 | Condition                                | [practice 02_condition.py](practice_02_conditions.py) |
+| 3 | Transformation                           | [practice_03_transformation.py](practice_03_transformation.py)   |
+| 4 | Reverse                                  | [practice_04_reverse.py](practice_04_reverse.py)   |
+| 5 | Statistics                               | [self study__statistics.py](self_study_statistics.py)     |
+
 
 ## 📦 Practical 02 — Data Structures
+
+### Lab Assignments
 
 | # | Problem                          | File                                                                                                                             |
 | - | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | 1 | Linear search implementation     | [lab_01_linear_search.py](lab_01_linear_search.py)     |
 | 2 | Cricket captain using dictionary | [lab_02_cricket_captain.py](lab_02_cricket_captain.py) |
+
+### Practice Assignments and Self Study
+
+| # | Problem                          | File                                                                                                                             |
+| - | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | List and Dictionary Operations   | [practice_01_list and dict.py](practice_01_list_dict.py)     |
+| 2 | Marks and Percentage             | [self study_01_marks.py](self_study_01_marks.py)     |
+| 3 | Tuple                            | [self study_02_tuple.py](self_study_02_tuple.py)     |
+
 
 ---
 
