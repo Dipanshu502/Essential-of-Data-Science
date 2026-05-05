@@ -1,4 +1,4 @@
-a#  Essentials of Data Science Lab (2304102L)
+ Essentials of Data Science Lab (2304102L)
 
 <div align="center">
 
@@ -120,6 +120,9 @@ This repository contains all practical assignments, lab work, and self-study tas
 * Data Visualization
 
 ---
+
+
+
 
 <div align="center">
 I am the GOD
