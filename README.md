@@ -1,41 +1,41 @@
-a# 📊 Essentials of Data Science Lab (2304102L)
+a#  Essentials of Data Science Lab (2304102L)
 
 <div align="center">
 
-🎓 **MIT Academy of Engineering**
-📘 *Second Year B.Tech Computer Engineering (Rev. 2023 NEP)*
-📅 **Academic Year:** 2025–2026
+**MIT Academy of Engineering**
+ *Second Year B.Tech Computer Engineering (Rev. 2023 NEP)*
+ **Academic Year:** 2025–2026
 
 </div>
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This repository contains all practical assignments, lab work, and self-study tasks for the **Essentials of Data Science Lab**.
 
 ---
 ---
 
-## 📜 Certifications
+##  Certifications
 
-| 🎓 Certificate      | 🏫 Issuer                | 🔗 Link                                                                                                               |
+|  Certificate        |  Issuer                  | 🔗 Link                                                                                                               |
 | ------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------- |
 | Python Essentials 1 | Cisco Networking Academy | [View Certificate](Python_Essentials_1_certificate_chinukaushik7245-gmail-com_7bd1fa26-873f-4224-9a3d-905383918ec7_d086b0094a5090ea895249161ffe5d95.pdf) |
 | Python Essentials 2 | Cisco Networking Academy | [View Certificate](Python_Essentials_2_certificate_chinukaushik7245-gmail-com_53ccd6dc-89a2-4fdc-95c3-ba12fe1fb6da_3d1ce20c3578a6001cbe1cdb22633ec9.pdf) |
 
 ---
 
-## 🎥 Assignment Video Explanations
+##  Assignment Video Explanations
 
-👉 [Open Video Folder](https://youtu.be/Q1i0Rb403xQ)
+ [Open Video Folder](https://youtu.be/Q1i0Rb403xQ)
 
 ## Video Assignment PDF
 
 [View PDF](EDS_2dc18487ce609f9bb7d480e6b5d3e4d1.pdf)
 ---
 
-### 📌 Included Topics
+###  Included Topics
 
 * 🧠 Nested If-Else in Python
 * 🐍 Python Fundamentals
@@ -44,10 +44,8 @@ This repository contains all practical assignments, lab work, and self-study tas
 
 ---
 
-💡 *Tip:* Open the folder and select any video to start learning.
 
-
-## 🐍 Practical 01 — Python Fundamentals
+##  Practical 01 — Python Fundamentals
 
 ### 📝 Lab Assignments
 
@@ -68,7 +66,7 @@ This repository contains all practical assignments, lab work, and self-study tas
 | 5 | Statistics                               | [self study__statistics.py](self_study_statistics.py)     |
 
 
-## 📦 Practical 02 — Data Structures
+##  Practical 02 — Data Structures
 
 ### Lab Assignments
 
@@ -88,37 +86,27 @@ This repository contains all practical assignments, lab work, and self-study tas
 
 ---
 
-## 🔢 Practical 03 — NumPy
+##  Practical 03 — NumPy
 
 📓 [Open Code](numpy_operations.ipynb)
 
 ---
 
-## 🐼 Practical 04 — Pandas
+##  Practical 04 — Pandas
 
 📓 [Open Code](pandas_operations.ipynb)
 
 ---
 
-## 📈 Practical 05 — Matplotlib
+##  Practical 05 — Matplotlib
 
 📓 [Open Code](mathplotlib_operations.ipynb)
 
 ---
 
-## ⚙️ How to Run
 
-### ▶️ Run Python File
 
-```bash
-python Essentials-of-Data-Science-main/Essentials-of-Data-Science/Practical_01/lab_01_grades.py
-```
 
-### 💻 Clone Repo
-
-```bash
-git clone https://github.com/Sushrut-Kale/Essentials-of-Data-Science.git
-cd Essentials-of-Data-Science
 ```
 
 ---
