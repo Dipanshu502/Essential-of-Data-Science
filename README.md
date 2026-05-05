@@ -1,4 +1,4 @@
- Essentials of Data Science Lab (2304102L)
+🤖 Essentials of Data Science Lab (2304102L)
 
 <div align="center">
 
@@ -10,14 +10,14 @@
 
 ---
 
-##  Overview
+##  🗣️ Overview
 
 This repository contains all practical assignments, lab work, and self-study tasks for the **Essentials of Data Science Lab**.
 
 ---
 ---
 
-##  Certifications
+##  ⚙️ Certifications
 
 |  Certificate        |  Issuer                  | 🔗 Link                                                                                                               |
 | ------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------- |
@@ -26,11 +26,11 @@ This repository contains all practical assignments, lab work, and self-study tas
 
 ---
 
-##  Assignment Video Explanations
+##  🎲 Assignment Video Explanations
 
  [Open Video Folder](https://youtu.be/Q1i0Rb403xQ)
 
-## Video Assignment PDF
+## 👀 Video Assignment PDF
 
 [View PDF](EDS_2dc18487ce609f9bb7d480e6b5d3e4d1.pdf)
 ---
@@ -45,7 +45,7 @@ This repository contains all practical assignments, lab work, and self-study tas
 ---
 
 
-##  Practical 01 — Python Fundamentals
+##  🎶 Practical 01 — Python Fundamentals
 
 ### 📝 Lab Assignments
 
@@ -66,7 +66,7 @@ This repository contains all practical assignments, lab work, and self-study tas
 | 5 | Statistics                               | [self study__statistics.py](self_study_statistics.py)     |
 
 
-##  Practical 02 — Data Structures
+##  👨‍🎓 Practical 02 — Data Structures
 
 ### Lab Assignments
 
@@ -86,19 +86,19 @@ This repository contains all practical assignments, lab work, and self-study tas
 
 ---
 
-##  Practical 03 — NumPy
+##  1️⃣ Practical 03 — NumPy
 
 📓 [Open Code](numpy_operations.ipynb)
 
 ---
 
-##  Practical 04 — Pandas
+## 🐼 Practical 04 — Pandas
 
 📓 [Open Code](pandas_operations.ipynb)
 
 ---
 
-##  Practical 05 — Matplotlib
+## 🦾 Practical 05 — Matplotlib
 
 📓 [Open Code](mathplotlib_operations.ipynb)
 
@@ -125,5 +125,5 @@ This repository contains all practical assignments, lab work, and self-study tas
 
 
 <div align="center">
-I am the GOD
+ I am the GOD
 </div>
