@@ -1,4 +1,4 @@
-🤖 Essentials of Data Science Lab (2304102L)
+## 🤖 Essentials of Data Science Lab (2304102L)
 
 <div align="center">
 
